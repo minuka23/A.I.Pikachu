@@ -6,6 +6,6 @@ Created a telegram bot in under an hour. Bot will respond to questions with pika
 __________________________
 
 ## Deploy to Heroku
-Get the [Necessary Variables](#Necessary-Variables) and then click the button below!  
+Click the button below!  
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://deploy.ultroid.tech)
